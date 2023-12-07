@@ -1,0 +1,41 @@
+{
+    "articles": [
+        {
+            "title": "First Day in the Call Center Floor: What You NEED to Know",
+            "description": "Onboarding new call center agents takes patience, time, and money. As much as you wish you could teach a few lessons and the new agents would be ready to take any call, that's not how training is going to happen. It happens in increments.",
+            "url": "https://pisopinoy.com/first-day-in-the-call-center-floor-how-to-deal/",
+            "urlToImage": "https://pisopinoy.com/wp-content/uploads/2018/10/first-day-in-the-call-center-floor-fear.jpg"
+            
+        },
+        {
+            "title": "How to Organize Your Call Center Training Program Into 5 Phases",
+            "description": "Onboarding new call center agents takes patience, time, and money. As much as you wish you could teach a few lessons and the new agents would be ready to take any call, that's not how training is going to happen. It happens in increments.",
+            "url": "https://blog.screensteps.com/call-center-training-program-phases",
+            "urlToImage": "https://blog.screensteps.com/hubfs/Call%20Center%20Training%20Program%20Phases.jpg"
+        },
+        {
+            "title": "Call center burnout: what it is and how to overcome it",
+            "description": "Working in a call center can be a stressful gig. Whether inbound or outbound, in an office setting or at home, call center agents are easily susceptible to burnout. Thankfully, burnout can be managed—but first we need to understand what it is, and how it affects customer service reps.",
+            "url": "https://www.zendesk.com/in/blog/call-center-burnout/",
+            "urlToImage": "https://d1eipm3vz40hy0.cloudfront.net/images/callcenterburnout.png"
+        },
+        {
+            "title": "How to Improve Call Centre Performance",
+            "description": "One key contact centre problem is that there is a lack of clarity within a team of advisors as to what is expected of them. This can really damage contact centre performance. Think about it. Can someone perform to the standard that is expected of them if they don't know what that standard is?",
+            "url": "https://www.callcentrehelper.com/12-great-tips-to-improve-call-centre-performance-2694.htm",
+            "urlToImage": "https://www.callcentrehelper.com/images/stories/2020/09/improvement-89914809-760.jpg"
+        },
+        {
+            "title": "Your Call Center Manager Playbook",
+            "description": "Great call centers don't just happen by accident. They're the result of many moving parts coming together at the right moment under the oversight and direction of great leaders.Effective call center management is how we keep everyone focused on the right objectives and activities.",
+            "url": "https://sharpencx.com/blog/call-center-management/",
+            "urlToImage": "https://sharpencx.com/wp-content/uploads/2018/12/coaching_pillar_feature_image-web-3.png"
+        },
+        {
+            "title": "Call Center Management",
+            "description": "Call centers employ different sets of strategies to achieve one common goal: deliver exceptional customer service experiences. To be effective, these strategies should address the many facets of managing a call center, including but not limited to...",
+            "url": "https://www.ringcentral.com/call-center-management.html",
+            "urlToImage": "https://www.ringcentral.com/content/dam/rc-www/en_us/images/content/seo/speed-dialers/call-center-agents-working-jpg-rendition.webp"
+        }
+    ]
+}

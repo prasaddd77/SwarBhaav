@@ -1,0 +1,22 @@
+{
+    "openai_response": "The overall sentiment in this chat conversation appears to be positive and friendly. Both speakers, Anish and Aditya, maintain a casual and lighthearted tone throughout the conversation. The key topics discussed include seeking help, making plans for a project, discussing friends in DJ (possibly referring to DJango), planning a birthday celebration for Gargi, and deciding on a restaurant for lunch. Anish expresses gratitude for Aditya's assistance and suggests going to a bookstore as a birthday gift for Gargi. Aditya suggests Punjab's Kitchen for lunch and discusses his previous experience at Asian foods. Both speakers engage in light humor and seem cooperative in their decision-making process. There are no noticeable negative emotions, disagreements, or arguments in the conversation.",
+    "sentiment_scores": {
+        "positive": "50%",
+        "negative": "14.285714285714285%",
+        "neutral": "35.714285714285715%"
+    },
+    "positive_words": [
+        "1. Free",
+        "2. Nice",
+        "3. Great",
+        "4. Good"
+    ],
+    "negative_words": [
+        "1. No",
+        "2. Problem",
+        "3. Lecture",
+        "4. Slight"
+    ],
+    "start_date": "12/03/2022, 20:58",
+    "end_date": "27/04/2022, 19:08"
+}
