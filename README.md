@@ -51,12 +51,6 @@ For a live demo of the project, visit [Demo Link](https://drive.google.com/file/
     -   Swar Dataset
     -   WhatsApp Chats
 
-## Usage
-
--   Access the application by visiting the appropriate URL in your browser.
--   Log in with your credentials to access the dashboard.
--   Explore the chat analysis, Swar sentiment analysis, and reporting features based on your user role.
-
 <!-- ## Contributing
 
 Contributions are welcome! Please follow our [Contributing Guidelines](CONTRIBUTING.md) to get started. -->
