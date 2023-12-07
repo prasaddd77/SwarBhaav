@@ -51,6 +51,14 @@ For a live demo of the project, visit [Demo Link](https://drive.google.com/file/
     -   Swar Dataset
     -   WhatsApp Chats
 
+## Images
+![splash](https://github.com/prasaddd77/SwarBhaav/assets/99267538/d967bb8b-d9d7-4b69-a676-3e45fa7a132b)
+![Onboarding](https://github.com/pr![splash](https://github.com/prasaddd77/SwarBhaav/assets/99267538/57de66a9-b80f-424d-abea-b08f46f11464)
+![Home](https://github.com/prasaddd77/SwarBhaav/assets/99267538/e7fce8b9-08b5-4319-9fcf-722387df249f)
+![History Page](https://github.com/prasaddd77/SwarBhaav/assets/99267538/a7466485-7720-4ac3-ac19-f0ef450a19b9)
+![On View Result Clicked](https://github.com/prasaddd77/SwarBhaav/assets/99267538/32311c75-46fd-4db5-b429-2b4e2a600427)
+![Stats Page](https://github.com/prasaddd77/SwarBhaav/assets/99267538/e49b66c3-e6b9-4f23-a85f-52a4bd5fa217)
+
 <!-- ## Contributing
 
 Contributions are welcome! Please follow our [Contributing Guidelines](CONTRIBUTING.md) to get started. -->
